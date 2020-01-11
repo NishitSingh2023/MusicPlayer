@@ -110,5 +110,6 @@ scale.pack(pady=15)
 statusbar = Label(root, text='Welcome To Music Player', relief=SUNKEN)
 statusbar.pack(side='bottom', fill=X)
 
+#===============================================================================
 
 root.mainloop() #this helps countinously show windows
